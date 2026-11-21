@@ -1,0 +1,28 @@
+Goal:
+Import 4.3qmd, supportive files, and documentation files onto a GitHub repo.
+
+Needs:
+GitHub, GitHub Desktop, GitHub folder, Dev Branch, 43.qmd, 43.pdf, teams.csv, teams_box.csv, calcium.csv, plan43.txt, NJHPromptI.png, SCPromptI.png, SCPromptII.png, chatgptPlot.png README.txt
+
+Verbs:
+Create, Move, Commit, Request, Approve, Write
+
+Steps:
+
+Create a new GitHub repository for the 4.4 project on GitHub Desktop.
+
+Create a new dev branch.
+
+Move 43.qmd, 43.pdf, teams.csv, teams_box.csv, calcium.csv, plan43.txt, NJHPromptI.png, SCPromptI.png, SCPromptII.png,  and chatgptPlot.png into a GitHub folder that results from this new GitHub repo. 
+
+Commit the new files into the dev branch, with a message indicating the addition.
+
+Request to pull the commit onto main.
+
+Approve the commit in GitHub.
+
+Edit the README file directly in GitHub with the relevant information about 43.
+
+Commit the changes.
+
+Approve the new commit.
